@@ -2,12 +2,9 @@
 TASK: You have a folder full of unsorted files. The file
 types have many different names and extensions.
 
-Your job is to copy every file from the unsorted
-folder and place it into the correct sorted sub folder.
+Your job is to copy every file from the unsorted folder and place it into the correct sorted sub folder.
 
-Some files will need to appear in multiple sub
-folders. Other files don't belong in any folder - they
-should be removed.
+Some files will need to appear in multiple sub folders. Other files don't belong in any folder - they should be removed. The 'favorites'folder is an extra challenge. 
 
 The final directory structure should be as follows:
 ~/irimina$ (yours will reflect your account)
