@@ -11,7 +11,7 @@ should be removed.
 
 The final directory structure should be as follows:
 
-~/cs12$
+~/irimina$ (yours will reflect your account)
 - unsorted
 - sorted
     - gifs (contains all the .gif files)
