@@ -27,3 +27,7 @@ The final directory structure should be as follows:
             - five (contains all the files where the last character is the number 5 [ ...5.gif] )
 
             - favorites (contains at least 5 of your favorite images, prefixed with the word "fav_" )
+
+
+Resources:
+https://linuxcommand.org/lc3_lts0050.php
