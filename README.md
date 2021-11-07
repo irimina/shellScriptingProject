@@ -17,26 +17,14 @@ The final directory structure should be as follows:
     - gifs (contains all the .gif files)
     - jpgs (contains all the .jpg files)
     - txts
-        - home(contains all the .txt files with the word home in
+        - home(contains all the .txt files with the word 'home' in the title)
 
-        the title)
+        - business (contains all the .txt files with the word 'business' in the title)
 
-        - business (contains all the .txt files with the word
+        - other(contains all the .txt files with neither 'word' nor 'home' in the title)
 
-        business in the title)
+        - zero(contains all the files where the last character is the number 0 [ ...0.jpg] )
 
-        - other(contains all the .txt files with neither word nor
+        - five (contains all the files where the last character is the number 5 [ ...5.gif] )
 
-        home in the title)
-
-        - zero(contains all the files where the last character is
-
-        the number 0 [ ...0.jpg] )
-
-        - five (contains all the files where the last character is
-
-        the number 5 [ ...5.gif] )
-
-        - favorites (contains at least 5 of your favorite images,
-
-        prefixed with the word "fav_" )
+        - favorites (contains at least 5 of your favorite images, prefixed with the word "fav_" )
