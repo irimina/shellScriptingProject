@@ -10,10 +10,9 @@ folders. Other files don't belong in any folder - they
 should be removed.
 
 The final directory structure should be as follows:
-
-  ~/irimina$ (yours will reflect your account)
-    - unsorted
-    - sorted
+~/irimina$ (yours will reflect your account)
+   - unsorted
+   - sorted
         - gifs (contains all the .gif files)
         - jpgs (contains all the .jpg files)
         - txts
